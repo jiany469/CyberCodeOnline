@@ -37,7 +37,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Do you want to buy Units, or use your Units?"
+ 	 	 	 	 	"您想購買荒坂貨幣，還是使用您所持有的荒坂貨幣？"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -59,7 +59,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
+ 	 	 	 	 	"你好！ 贊助以獲得電馭裝飾並支持遊戲！"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
@@ -77,7 +77,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"I'll print whatever you want if you have the cache!"
+ 	 	 	 	 	"只要你有快取記憶體跟比特幣，我可以打印你想要的任何東西！"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll print whatever you want if you have the cache!"
@@ -91,7 +91,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"You will find the best gear here, trust me."
+ 	 	 	 	 	"你可以在這裡搜索最好的裝備，相信我。"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"You will find the best gear here, trust me."
@@ -117,7 +117,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"I'll help you to progress to the next area!"
+ 	 	 	 	 	"我會幫助你進入下一個區域！"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll help you to progress to the next area!"
@@ -131,7 +131,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid... Come check out my goods."
+ 	 	 	 	 	"嘿，孩子……來看看我的貨物。"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -149,7 +149,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Welcome. What can I store for you?"
+ 	 	 	 	 	"歡迎來到荒坂銀行。 我可以為你儲存什麼？"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Welcome. What can I store for you?"
@@ -162,7 +162,7 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "一個工具齊全的工作台可以強化你的裝備",
+ 	 	 	 	"trans": "這是一個工具齊全的工作台可以強化你的裝備",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
@@ -171,7 +171,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
+ 	 	 	 	 	"將設備校準核心插入機器，我將協助您校準您的裝備。"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
@@ -193,7 +193,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
+ 	 	 	 	 	"嘿孩子，我是李，你知道，你不必把所有東西都放在口袋裡。"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
@@ -939,11 +939,11 @@
  	 	},
  	 	"medicalTechParts": {
  	 	 	"name": {
- 	 	 	 	"trans": "醫療科技零件",
+ 	 	 	 	"trans": "醫療科技碎片",
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使用過的醫療科技的零件, 若知道方法, 可用來製作醫療用品",
+ 	 	 	 	"trans": "使用後的醫療品碎片, 若知道方法, 可用來製作醫療品",
  	 	 	 	"eng": "Bits and pieces of used medical tech. This can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
@@ -4266,7 +4266,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit}單位",
+ 	 	 	 	"trans": "${unit}荒坂貨幣",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4274,7 +4274,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "收到 ${unit} 單位",
+ 	 	 	 	"trans": "收到 ${unit} 荒坂貨幣",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4283,7 +4283,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit}單位",
+ 	 	 	 	"trans": "${unit}荒坂貨幣",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	}
  	 	},
@@ -4292,7 +4292,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit}單位",
+ 	 	 	 	"trans": "${unit}荒坂貨幣",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4300,7 +4300,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "收到${unit}單位（${bonus}獎金）",
+ 	 	 	 	"trans": "收到${unit}荒坂貨幣（${bonus}獎金）",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4309,7 +4309,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit}單位",
+ 	 	 	 	"trans": "${unit}荒坂貨幣",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4317,7 +4317,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "收到${unit}單位（${bonus}獎金）",
+ 	 	 	 	"trans": "收到${unit}荒坂貨幣（${bonus}獎金）",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4326,7 +4326,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit}單位",
+ 	 	 	 	"trans": "${unit}荒坂貨幣",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4334,7 +4334,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "收到${unit}單位（${bonus}獎金）",
+ 	 	 	 	"trans": "收到${unit}荒坂貨幣（${bonus}獎金）",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4343,7 +4343,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit}單位",
+ 	 	 	 	"trans": "${unit}荒坂貨幣",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4351,7 +4351,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "收到${unit}單位（${bonus}獎金）",
+ 	 	 	 	"trans": "收到${unit}荒坂貨幣（${bonus}獎金）",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4360,7 +4360,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit}單位",
+ 	 	 	 	"trans": "${unit}荒坂貨幣",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4368,7 +4368,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "收到${unit}單位（${bonus}獎金）",
+ 	 	 	 	"trans": "收到${unit}荒坂貨幣（${bonus}獎金）",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4377,7 +4377,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit}單位",
+ 	 	 	 	"trans": "${unit}荒坂貨幣",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4385,7 +4385,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "收到${unit}單位（${bonus}獎金）",
+ 	 	 	 	"trans": "收到${unit}荒坂貨幣（${bonus}獎金）",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -4394,7 +4394,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"unit"
  	 	 	 	],
- 	 	 	 	"trans": "${unit}單位",
+ 	 	 	 	"trans": "${unit}荒坂貨幣",
  	 	 	 	"eng": "${unit} Unit"
  	 	 	},
  	 	 	"description": {
@@ -4402,7 +4402,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "收到${unit}單位（${bonus}獎金）",
+ 	 	 	 	"trans": "收到${unit}荒坂貨幣（${bonus}獎金）",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	}
@@ -4421,7 +4421,7 @@
  	 	"donation1": {
  	 	 	"benefits": {
  	 	 	 	"1": {
- 	 	 	 	 	"trans": "“會員”捐贈標題",
+ 	 	 	 	 	"trans": "“會員”贊助裝飾",
  	 	 	 	 	"eng": "\"Member\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
@@ -4437,7 +4437,7 @@
  	 	"donation2": {
  	 	 	"benefits": {
  	 	 	 	"1": {
- 	 	 	 	 	"trans": "“捐贈者”捐贈標題",
+ 	 	 	 	 	"trans": "“捐贈者”贊助裝飾",
  	 	 	 	 	"eng": "\"Donator\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
@@ -4457,7 +4457,7 @@
  	 	"donation3": {
  	 	 	"benefits": {
  	 	 	 	"1": {
- 	 	 	 	 	"trans": "“精英”捐贈標題",
+ 	 	 	 	 	"trans": "“精英”贊助裝飾",
  	 	 	 	 	"eng": "\"Elite\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
@@ -4497,7 +4497,7 @@
  	 	"donation4": {
  	 	 	"benefits": {
  	 	 	 	"1": {
- 	 	 	 	 	"trans": "“傳奇”捐贈標題",
+ 	 	 	 	 	"trans": "“傳奇”贊助裝飾",
  	 	 	 	 	"eng": "\"Legendary\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
@@ -4541,7 +4541,7 @@
  	 	 	 	 	"eng": "Cybernetic Potato"
  	 	 	 	},
  	 	 	 	"2": {
- 	 	 	 	 	"trans": "“電馭Potato”捐贈標題",
+ 	 	 	 	 	"trans": "“電馭Potato”贊助裝飾",
  	 	 	 	 	"eng": "\"Cybernetic Potato\" donation title"
  	 	 	 	},
  	 	 	 	"3": {
@@ -4642,7 +4642,7 @@
  	 	 	 	"eng": "If you have some spare change it would be very helpful if you could donate to help with continued support and development of the game."
  	 	 	},
  	 	 	"content4": {
- 	 	 	 	"trans": "請您在有餘裕的情況下進行捐贈，所有獲益將致力給所有玩家更平衡的游戲體驗，並不會有任一方在遊戲中佔據優勢。",
+ 	 	 	 	"trans": "請您在有餘裕的情況下進行贊助，所有獲益將致力給所有玩家更平衡的游戲體驗，並不會有任一方在遊戲中佔據優勢。",
  	 	 	 	"eng": "Please only donate if you are comfortable, all benefits are designed to be fair for all players and will not give an edge in gameplay."
  	 	 	}
  	 	},
@@ -4655,7 +4655,7 @@
  	 	 	"eng": "benefits"
  	 	},
  	 	"TiersTitle": {
- 	 	 	"trans": "捐贈等級",
+ 	 	 	"trans": "贊助等級",
  	 	 	"eng": "Donation Tiers"
  	 	}
  	},
